@@ -15,8 +15,8 @@ Visualize Data Structures & Algorithms as **interactive stories**—complete wit
 
 | Home Page | Algorithms View |
 
-| <img width="1909" height="961" alt="Image" src="https://github.com/user-attachments/assets/f86e06c9-20f5-40f0-b97e-8d2d3817f429" />
-| ![Algorithms Screenshot](./dist/assets/algorithms.png) |
+<img width="1909" height="961" alt="Image" src="https://github.com/user-attachments/assets/f86e06c9-20f5-40f0-b97e-8d2d3817f429" />
+<img width="1911" height="913" alt="Image" src="https://github.com/user-attachments/assets/efdebb15-f3fc-4cc5-abb1-40e4b95d1242" />
 
 
 ## ✨ Features

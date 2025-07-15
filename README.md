@@ -73,7 +73,7 @@ tailwind.config.js # Tailwind settings
 Your ideas are welcome! To contribute:
 
 1. 🔁 Fork this repo  
-2. 🙌 Create a new branch (`feature/xyz`)  
+2. 🙌 Create a new branch   
 3. 📝 Commit your changes (`git commit -m "🚀 Initial commit – DSA Story Visualizer"`)  
 4. 📤 Push & open a Pull Request  
 5. 🛠 Review and refine via feedback
@@ -87,7 +87,7 @@ Inspired by top DSA visualizers on GitHub, this project transforms abstract algo
 👤 Credits
 
 **Developed by:** Poorvi Shasta Reddy  
-**Powered by:** Vite, React, TS, Tailwind, Framer Motion, and YOU.
+**Powered by:** Vite, React, TS, Tailwind, Framer Motion.
 
 
 

@@ -74,7 +74,7 @@ Your ideas are welcome! To contribute:
 
 1. 🔁 Fork this repo  
 2. 🙌 Create a new branch (`feature/xyz`)  
-3. 📝 Commit your changes (`git commit -m "✨ Feature - add xyz"`)  
+3. 📝 Commit your changes (`git commit -m "🚀 Initial commit – DSA Story Visualizer"`)  
 4. 📤 Push & open a Pull Request  
 5. 🛠 Review and refine via feedback
 

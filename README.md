@@ -36,9 +36,8 @@ Visualize Data Structures & Algorithms as **interactive stories**—complete wit
 - **Responsive UI**  
   Designed with Tailwind CSS and Framer Motion for smooth transitions and mobile-friendly layouts.
 
----
 
-## 🚧 Tech Stack
+ 🚧 Tech Stack
 
 - **Framework:** Vite + React + TypeScript  
 - **Styling:** Tailwind CSS  
@@ -47,9 +46,9 @@ Visualize Data Structures & Algorithms as **interactive stories**—complete wit
 - **Utilities:** React Hot Toast, React Syntax Highlighter
 
 
-## 🛠️ Install & Run Locally
+🛠️ Install & Run Locally
 
-```bash
+bash
 git https://github.com/PoorviShasta/DSA-Story-Visualizer.git
 cd dsa-story-visualizer
 
@@ -59,11 +58,8 @@ npm run dev
 
 Then open: `http://localhost:5173`
 
+🧭 Project Structure
 
-
-## 🧭 Project Structure
-
-```
 src/               # React components and views
 assets/            # Images/screenshots for README
 public/            # Static assets
@@ -71,10 +67,8 @@ package.json       # Dependencies & scripts
 vite.config.ts     # Vite config
 tailwind.config.js # Tailwind settings
 ...other configs  # TypeScript, PostCSS, etc.
-```
 
-
-## 🤝 Contributing
+🤝 Contributing
 
 Your ideas are welcome! To contribute:
 
@@ -86,12 +80,11 @@ Your ideas are welcome! To contribute:
 
 
 
-## 🎓 Why This Project?
+🎓 Why This Project?
 
 Inspired by top DSA visualizers on GitHub, this project transforms abstract algorithms into relatable, story-based animations—making learning both fun and effective.
 
-
-## 👤 Credits
+👤 Credits
 
 **Developed by:** Poorvi Shasta Reddy  
 **Powered by:** Vite, React, TS, Tailwind, Framer Motion, and YOU.
